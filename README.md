@@ -251,9 +251,4 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
 
-For support, please:
-1. Check the [documentation](docs/)
-2. Open an [issue](issues/)
-3. Join our [Discord](discord-link) community
